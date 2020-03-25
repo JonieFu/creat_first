@@ -8,7 +8,7 @@
 > 现在我已经学了
 1. HTML
 2. CSS
-3. JavaScript
+3. JavaScript  
 `var x = 18 `
 ```javascript
 function (x:Int,y:Int):Int{
